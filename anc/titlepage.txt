@@ -1,0 +1,47 @@
+\begin{titlepage}
+
+\begin{center}
+{\bf \Large An Introduction to Machine Learning and ML tool basics for Physicists}
+
+\vskip6ex
+
+{\bf Thomas Fischbacher   \\ }
+\bigskip
+Google Research\\
+Brandschenkestrasse 110, 8002 Z\"urich, Switzerland
+\vskip 5mm
+\bigskip
+\tt{tfish@google.com} \\
+\end{center}
+
+\bigskip
+\bigskip
+
+\begin{abstract}
+
+\noindent
+These lecture notes contain of a set of Interactive Python (Google
+Colab) notebooks that were the basis for a one-week ML course at the
+Albert Einstein Institute in Potsdam, taught by the author in June
+2022. They give a hands-on introduction to not only Machine Learning
+Fundamentals and underlying concepts and ideas (in some places
+presented in a form that aligns with concepts known to theoretical
+physicists that many machine learning practitioners would not be
+familiar with), but also explain bottom-up some of the design goals of
+modern machine learning frameworks, and how these can be harnessed to
+solve a broad range of numerical problems that readily arise in
+theoretical physics - even when not employing any "learning" per
+se. This point is illustrated with examples such as a basic general
+relativity ray tracer implemented on top of Google's TensorFlow. The
+notebooks have been typeset with some minor expansions, fixes, and
+modernizations. It is expected that they might be useful both for
+self-study and also as a source of material for educators who want to
+design similar courses.
+
+\end{abstract}
+
+\vfill
+
+\end{titlepage}
+
+\tableofcontents
